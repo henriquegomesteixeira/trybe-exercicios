@@ -9,7 +9,7 @@ if (salarioBruto <= 1556.94) {
 } else if (salarioBruto <= 5189.82) {
     inss = salarioBruto * 0.11;
 } else {
-    inss = 570.88;
+    inss = 570.88;Day1-javascript-primeiros-passos;
 }
 
 let soma = salarioBruto - inss;
